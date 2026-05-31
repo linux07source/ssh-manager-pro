@@ -20,3 +20,6 @@ Scarica l'ultima versione dalla sezione **Releases** o usa il terminale:
 git clone https://github.com/linux07source/ssh-manager-pro.git
 cd ssh-manager-pro
 sudo dpkg -i ssh-manager-pro_1.0_amd64.deb
+alias ssh-pro='/usr/local/bin/ssh_manager_pro'
+source ~/.zshrc || source ~/.bashrc
+ssh-pro || ssh_manager_pro
