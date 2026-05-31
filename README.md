@@ -35,3 +35,6 @@ udo apt remove ssh-manager-pro
 </div>
 
 *Gestisci i tuoi server in un secondo con ssh-pro.*
+
+## Acquista la Licenza
+[Licenza](https://1357856495547.gumroad.com/l/panegu)
