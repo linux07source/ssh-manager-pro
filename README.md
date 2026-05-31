@@ -18,4 +18,5 @@ Scarica l'ultima versione dalla sezione **Releases** o usa il terminale:
 
 ```bash
 git clone https://github.com/linux07source/ssh-manager-pro.git
+cd ssh-manager-pro
 sudo dpkg -i ssh-manager-pro_1.0_amd64.deb
