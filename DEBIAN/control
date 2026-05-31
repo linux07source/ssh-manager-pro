@@ -1,8 +1,0 @@
-Package: ssh-manager-pro
-Version: 1.0
-Section: utils
-Priority: optional
-Architecture: amd64
-Maintainer: Leonardo <vre2407@gmail.com>
-Description: SSH Manager Pro - Cyber-styled SSH connection manager.
- Automates host management and key exchange with a clean terminal interface.
