@@ -17,5 +17,5 @@ SSH Manager Pro è progettato per semplificare la gestione delle sessioni SSH, g
 Scarica l'ultima versione dalla sezione **Releases** o usa il terminale:
 
 ```bash
-wget [https://github.com/linux07source/ssh-manager-pro/releases/latest/download/ssh-manager-pro_1.0_amd64.deb](https://github.com/linux07source/ssh-manager-pro/releases/latest/download/ssh-manager-pro_1.0_amd64.deb)
+git clone https://github.com/linux07source/ssh-manager-pro.git
 sudo dpkg -i ssh-manager-pro_1.0_amd64.deb
