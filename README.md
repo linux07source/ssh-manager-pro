@@ -29,4 +29,9 @@ Vuoi cancellare l'app? Esegui questo comando
 ```bash
 udo apt remove ssh-manager-pro
 ```
+## 🚀 Demo in azione
+<div align="center">
+  <img src="ssh-demo.gif" width="100%" alt="SSH Manager Pro Demo">
+</div>
 
+*Gestisci i tuoi server in un secondo con ssh-pro.*
