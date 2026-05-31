@@ -23,3 +23,9 @@ sudo dpkg -i pacchetto_ssh.deb
 alias ssh-pro='/usr/local/bin/ssh_manager_pro'
 source ~/.zshrc || source ~/.bashrc
 ssh-pro || ssh_manager_pro
+```
+## 📦 Disinstallazione
+Vuoi cancellare l'app? Esegui questo comando
+```bash
+udo apt remove ssh-manager-pro
+```
