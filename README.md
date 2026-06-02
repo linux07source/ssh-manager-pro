@@ -27,7 +27,7 @@ ssh-pro || ssh_manager_pro
 ## 📦 Disinstallazione
 Vuoi cancellare l'app? Esegui questo comando
 ```bash
-udo apt remove ssh-manager-pro
+sudo apt remove ssh-manager-pro
 ```
 ## 🚀 Demo in azione
 <div align="center">
